@@ -1,0 +1,5 @@
+USAGE
+    %prog% {{<sudoku file>}}
+
+OPTIONS
+  {{-h --help}}Display help text.
